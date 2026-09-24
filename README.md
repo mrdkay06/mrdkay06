@@ -1,8 +1,8 @@
-# Salut, je suis Noah 👋
+# Salut, je suis Noah !👋
 
 Développeur passionné par le full-stack et le DevOps.
 
-## 🛠️ Stack
+## Stack
 ### Développement web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,10 +23,10 @@ Développeur passionné par le full-stack et le DevOps.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🚀 Projets récents
+## Projets récents
 - **Marketplacemdg** — site de vente local
 - **Futur_makers** — pipeline CI/CD complet (build Docker, push GHCR, déploiement SSH)
 - **Havanana Tech** — site e-commerce React avec catalogue dynamique
 
-## 📫 Me contacter
+## Me contacter
 ratsimanoah@gmail.com
