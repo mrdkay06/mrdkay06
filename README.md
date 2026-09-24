@@ -29,4 +29,4 @@ Développeur passionné par le full-stack et le DevOps.
 - **Havanana Tech** — site e-commerce React avec catalogue dynamique
 
 ## Me contacter
-ratsimanoah@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/ton-url-linkedin/](https://www.linkedin.com/in/noah-ratsimanetrimanana-a2324843a/?isSelfProfile=true))· ![Email]ratsimanoah@gmail.com
