@@ -1,4 +1,4 @@
-# Bonjour, je suis Noah !
+# Bonjour, je suis Noah et c'est mon anniversaire !🥳
  
 Développeur passionné par le full-stack, le mobile et le DevOps.
  
@@ -30,7 +30,7 @@ Développeur passionné par le full-stack, le mobile et le DevOps.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  
 ## Projets récents
-- **Mizan** — projet en cours de développement *(ajoute ici une courte description : but, technos utilisées)*
+- **Mizan** — projet en cours de développement
 - **Marketplacemdg** — site de vente local **Made in Madagascar**
 - **Futur_makers** — pipeline CI/CD complet (build Docker, push GHCR, déploiement SSH)
 - **Havanana Tech** — site e-commerce React avec catalogue dynamique
