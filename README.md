@@ -1,4 +1,4 @@
-# Bonjour, je suis Noah et c'est mon anniversaire !🥳
+# Bonjour, je suis Noah !
  
 Développeur passionné par le full-stack, le mobile et le DevOps.
  
